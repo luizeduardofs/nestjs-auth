@@ -1,6 +1,9 @@
 {
   "biome.lsp.bin": "/opt/homebrew/bin/biome",
   "cSpell.words": [
-    "nodenext"
+    "dtos",
+    "neondatabase",
+    "nodenext",
+    "postgresql"
   ]
 }
